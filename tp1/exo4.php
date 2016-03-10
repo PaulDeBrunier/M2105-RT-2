@@ -38,5 +38,5 @@ function division($a,$b){
 echo division($a,$b)."<br>";
 
 ?>
-</body>
+</body> 
 </html>

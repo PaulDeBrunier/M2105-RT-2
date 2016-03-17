@@ -16,7 +16,8 @@ function getHeader($startSession,$title){
       <meta charset=''utf-8'>
       <title>{$title}</title>
     </head>
-}   <body>"
+}   <body>";
 function get Footer(){
     echo"</body></html>";
 }
+

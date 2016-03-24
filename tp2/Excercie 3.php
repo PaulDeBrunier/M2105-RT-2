@@ -19,3 +19,8 @@ if(isset($_POST['browser'])) {$_SESSION['browser'] = $_POST['browser'];
         </fieldset>
             <legend> Votre navigateur favori ? ?</legend>
             <input name="browser" value="Chrome" type="radio"> <label>Chrome</label>
+            <input name="browser" value="Mozilla" type="radio"> <label>Mozilla</label>
+            <input name="browser" value="Internet Explorer" type="radio"> <label>Internet Explorer</label>
+            <input name="browser" value="Opera" type="radio"> <label>Opera</label>
+            <input name="browser" value="Autre" type="Autre"> <label>Autre</label>
+        
